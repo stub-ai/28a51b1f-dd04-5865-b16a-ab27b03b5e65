@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a Vue.js login page following best practices and SOLID principles.","md5":"1692eedeaf3c0d153927f6262270e5b2"}]}
